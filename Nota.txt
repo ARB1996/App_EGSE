@@ -1,4 +1,20 @@
-EXOMARS DS20 - Aplicación Matlab  [14/12/2020]
+﻿EXOMARS DS20 - Aplicación Matlab  [14/12/2020]
+
+
+Versión egse_DS20_29_01_21
+
+Se añaden ciertas mejoras respecto a las medidas automaticas:
+
+1. Barra de progreso: ya no avanza por hitos, sino de manera continua segun el tiempo de proceso. 	Además, se añade un contador con el tiempo transcurrido y el tiempo total aproximado.
+
+2. Durante las medidas automaticas, las gráficas de cada campaña se muestran en la pestaña Acquire 	una vez estan completas 
+
+3. Se añade la opción de indicar que gráficas queremos que se muestren al terminar las medidas 	automaticas.
+
+
+
+
+
 
 Versión egse_DS20_11_12_20
 
