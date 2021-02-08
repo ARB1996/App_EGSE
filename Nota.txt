@@ -1,4 +1,13 @@
-﻿EXOMARS DS20 - Aplicación Matlab  [14/12/2020]
+﻿EXOMARS DS20 - Aplicación Matlab  [08/02/2021]
+
+Versión egse_D20_08_02_21
+
+Esta versión actualiza a la del 02/02/21, añadiendo:
+
+-Solucionado error cuando no estaban seleccionadas todas las gráficas de las autocampañas en el que no se generaba bien el archivo fig. Para solucionarlo, las gráficas de la autocampaña deben mostrarse durante unos segundos. Tras este tiempo, aquellas gráficas que no estén seleccionadas se cierran solas.
+
+-Ahora se muestran las gráficas de las autocampañas y se genera el .fig cuando se cancela una autocampaña.
+
 
 
 Versión egse_DS20_29_01_21
