@@ -1,0 +1,28 @@
+........CAMPAIGN 1 - 11-03-21_10:43:28...........
+IDLE STATE
+Time Config: 1.028300 s
+
+Comand: egse_cli -pCOM5 -b57600 -c01
+Success
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 01 52 
+(A) AB / 03 / 01 02 4F 
+Log file closed.
+
+Time Idle: 10.032814 s
+
+WARM UP
+Comand: egse_cli -pCOM5 -b57600 -c02
+Success
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 02 51 
+(A) AB / 03 / 02 03 4D 
+Log file closed.
+
+Time Warm Up: 5.308113 s
+
+SENSING

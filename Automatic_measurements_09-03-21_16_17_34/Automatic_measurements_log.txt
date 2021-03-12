@@ -1,0 +1,22 @@
+.................Automatic_measurements...................
+
+
+....CONFIGURATION....
+Self-Test Time: 10 s
+WarmUp Time: 5 s
+Measurement Time: 600 s
+Switch Off Time: 5 s
+
+Model: CM3
+Auto mode: Cmd
+Continuous mode: On
+
+Time Start: 3.333632 s
+
+........CAMPAIGN 1 - 09-03-21_16:17:37...........
+
+Time Config: 1.011657 s
+IDL:Success [ 10.008871 s] WARM:Success [ 5.203760 s] SENS:Success [ 600.201207 s] TELE:Success [ 12.999067 s] OFF S[ 1.007507 s] 
+
+........CAMPAIGN 2 - 09-03-21_16:28:06...........
+Success SENS:

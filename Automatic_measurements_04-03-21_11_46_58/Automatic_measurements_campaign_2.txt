@@ -1,0 +1,67 @@
+........CAMPAIGN 2 - 04-03-21_11:47:37...........
+IDLE STATE
+Time Config: 0.007695 s
+
+Comand: egse_cli -pCOM5 -b57600 -c01
+Success
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 01 52 
+(A) AB / 03 / 01 02 4F 
+Log file closed.
+
+Time Idle: 10.003852 s
+
+WARM UP
+Comand: egse_cli -pCOM5 -b57600 -c02
+Success
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 02 51 
+(A) AB / 03 / 02 03 4D 
+Log file closed.
+
+Time Warm Up: 5.204378 s
+
+SENSING
+Comand: egse_cli -pCOM5 -b57600 -c04 -d C:\Users\AlbertoRB\Documents\GitHub\App_EGSE\Automatic_measurements_04-03-21_11_46_58\sens_2_04_03_21_11_48_02.m
+Success
+Comand Response: 
+Starting egse_cmd...
+Data file 'C:\Users\AlbertoRB\Documents\GitHub\App_EGSE\Automatic_measurements_04-03-21_11_46_58\sens_2_04_03_21_11_48_02.m' opened
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 04 4F 
+(A) AB / 03 / 04 04 4A 
+(D-000) AB / FF / 00 00 0E 00 4C 20 0C 30 4B 9C FD 3C 34 20 12 F0 1B 30 00 18 4C 20 0C 48 4B 9C FD 3C 34 20 12 F0 1B 3C 00 0C 4C 14 0C 3C 4B 90 FD 48 34 2C 12 FC 1B 30 00 18 4C 20 0C 48 4B 90 FD 48 34 2C 12 FC 1B 3C 00 0C 4C 14 0C 3C 4B 90 FD 48 34 14 12 FC 1B 48 00 18 4C 2C 0C 54 4B 90 FD 48 34 20 12 F0 1B 3C 00 24 4C 14 0C 3C 4B A8 FD 60 34 14 12 FC 1B 24 00 24 4C 20 0C 48 4B 90 FD 48 34 14 12 FC 1B 30 00 30 4C 2C 0C 54 4B C0 FD 78 34 20 13 08 1B 48 00 18 4C 20 0C 48 4B C0 FD 78 34 20 13 08 1B 3C 00 24 4C 2C 0C 54 4B B4 FD 6C 34 20 13 08 1B 3C 00 24 4C 20 0C 48 4B C0 FD 78 34 14 12 FC 1B 48 00 18 4C 20 0C 48 4B C0 FD 78 34 14 12 FC 1B 24 00 24 4C 20 0C 60 4B CC FD 84 34 20 13 20 1B 48 00 18 4C 2C 0C 54 4B C0 FD 78 34 20 13 20 1B 3C 00 24 98 35 7F 96 98 35 BF 6B FE A6 37 
+(D-001) AB / FF / 0F 00 14 00 4C 20 0C 48 4B CC FD 84 34 08 13 08 1B 3C 00 0C 4C 20 0C 48 4B C0 FD 78 34 14 12 FC 1B 3C 00 18 4C 2C 0C 54 4B C0 FD 78 34 14 12 FC 1B 48 00 18 4C 2C 0C 54 4B C0 FD 90 33 FC 13 14 1B 3C 00 24 4C 2C 0C 54 4B C0 FD 90 34 14 13 2C 1B 48 00 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 
+Log file closed.
+Data file closed.
+
+Time Sens: 10.205106 s
+
+TELEMETRY
+Comand: egse_cli -pCOM5 -b57600 -c03
+Success
+Data measured=20 Data sended=20
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 03 50 
+(A) AB / 03 / 03 04 4B 
+(D-000) AB / 08 / 00 14 00 14 00 00 00 25 
+Log file closed.
+
+Comand: egse_cli -pCOM5 -b57600 -c08
+Success
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 08 4B 
+(A) AB / 03 / 08 00 4A 
+Log file closed.
+
+Time Tele: 8.958790 s
+
+SWITCH OFF STATE

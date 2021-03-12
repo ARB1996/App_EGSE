@@ -1,0 +1,13 @@
+.................Automatic_measurements...................
+
+
+....CONFIGURATION....
+Self-Test Time: 5 s
+WarmUp Time: 0 s
+Measurement Time: 60 s
+Switch Off Time: 5 s
+
+Model: CM3
+Auto mode: Cmd
+Continuous mode: On
+

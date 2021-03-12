@@ -1,0 +1,53 @@
+........CAMPAIGN 1 - 11-03-21_10:49:14...........
+IDLE STATE
+Time Config: 1.017831 s
+
+Comand: egse_cli -pCOM5 -b57600 -c01
+Success
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 01 52 
+(A) AB / 03 / 01 02 4F 
+Log file closed.
+
+Time Idle: 10.026675 s
+
+WARM UP
+Comand: egse_cli -pCOM5 -b57600 -c02
+Success
+Comand Response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 02 51 
+(A) AB / 03 / 02 03 4D 
+Log file closed.
+
+Time Warm Up: 5.356145 s
+
+SENSING
+Comand: egse_cli -pCOM5 -b57600 -c04 -d C:\Users\AlbertoRB\Documents\GitHub\App_EGSE\Automatic_measurements_11-03-21_10_49_11\sens_1_11_03_21_10_52_30.m
+ACK NOT RECEIVED ERROR
+Comand response: 
+Starting egse_cmd...
+Data file 'C:\Users\AlbertoRB\Documents\GitHub\App_EGSE\Automatic_measurements_11-03-21_10_49_11\sens_1_11_03_21_10_52_30.m' opened
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 04 4F 
+(A) Ack not received
+(D-000) Data not received
+Log file closed.
+Data file closed.
+
+Time Sens: 180.364529 s
+
+TELEMETRY
+Comand: egse_cli -pCOM5 -b57600 -c03
+ACK NOT RECEIVED ERROR
+Comand response: 
+Starting egse_cmd...
+\\.\COM5 opened and configured at 57600bps
+(C) AB / 02 / 03 50 
+(A) Ack not received
+(D-000) Data not received
+Log file closed.
+

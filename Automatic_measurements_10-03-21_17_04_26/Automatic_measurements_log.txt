@@ -1,0 +1,44 @@
+.................Automatic_measurements...................
+
+
+....CONFIGURATION....
+Self-Test Time: 5 s
+WarmUp Time: 0 s
+Measurement Time: 60 s
+Switch Off Time: 5 s
+
+Model: CM3
+Auto mode: Cmd
+Continuous mode: On
+
+Time Start: 3.113288 s
+
+........CAMPAIGN 1 - 10-03-21_17:04:30...........
+
+Time Config: 1.012837 s
+IDL:Success [ 5.002610 s] WARM:Success [ 0.206527 s] SENS:Success [ 60.222418 s] TELE:Success [ 10.150474 s] OFF S[ 1.009333 s] 
+
+........CAMPAIGN 2 - 10-03-21_17:05:46...........
+Success SENS:Success [ 62.219892 s] TELE:Success [ 9.996559 s] OFF S[ 1.009711 s] 
+
+........CAMPAIGN 3 - 10-03-21_17:07:00...........
+Success SENS:Success [ 62.220463 s] TELE:Success [ 10.026788 s] OFF S[ 1.010036 s] 
+
+........CAMPAIGN 4 - 10-03-21_17:08:13...........
+Success SENS:Success [ 62.234406 s] TELE:Success [ 10.156984 s] OFF S[ 1.012212 s] 
+
+........CAMPAIGN 5 - 10-03-21_17:09:26...........
+Success SENS:Success [ 62.250465 s] TELE:Success [ 9.992327 s] OFF S[ 1.008712 s] 
+
+........CAMPAIGN 6 - 10-03-21_17:10:39...........
+Success SENS:Success [ 62.221310 s] TELE:Success [ 10.110708 s] OFF S[ 1.008053 s] 
+
+........CAMPAIGN 7 - 10-03-21_17:11:53...........
+Success SENS:Success [ 62.228741 s] TELE:Success [ 10.087128 s] OFF S[ 1.009830 s] 
+
+........CAMPAIGN 8 - 10-03-21_17:13:06...........
+Success SENS:Success [ 62.217401 s] TELE:Success [ 9.862938 s] OFF S[ 0.006724 s] 
+
+...................RESULTS......................
+Number of errors=0
+.................END OF MEASUREMENT....................

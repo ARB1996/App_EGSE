@@ -1,0 +1,10 @@
+.................sens_2021_03_04_15_15_31...................
+
+
+....CONFIGURATION....
+Model: CM3
+WarmUp Time: 5 s
+Measurement Time: 30 s
+Emitter Frequency: 10 Hz 
+Emitter Vp: 1 V
+Emitter Wave: Sine 
