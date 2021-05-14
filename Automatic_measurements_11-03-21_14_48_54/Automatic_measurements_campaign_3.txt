@@ -1,4 +1,0 @@
-........CAMPAIGN 3 - 11-03-21_14:51:52...........
-IDLE STATE
-Time Config: 0.011834 s
-
